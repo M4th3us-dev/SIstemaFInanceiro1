@@ -1,0 +1,10 @@
+{
+    "name": "mathe/sistema-financeiro",
+    "description": "Sistema de gerenciamento financeiro para pequenos negocios e freelancers",
+    "authors": [
+        {
+            "name": "matheus"
+        }
+    ],
+    "require": {}
+}
